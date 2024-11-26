@@ -1,3 +1,5 @@
+[Read this page in English](https://github.com/rafaelcurti/rafaelcurti/blob/main/README-EN.md)
+
 # Olá! Eu sou Rafael👋
 
 Sou um profissional com mais de 20 anos de experiência em TI e Telecomunicações e estou em uma jornada de transição para a área de Análise de Dados. Ao longo da minha carreira, desenvolvi habilidades sólidas em infraestrutura de TI, suporte a redes e análise de dados em ambientes críticos, e agora estou focado em aprimorar minhas competências para atuar de maneira mais direta com dados, utilizando tecnologias modernas de Business Intelligence e Data Analytics.
